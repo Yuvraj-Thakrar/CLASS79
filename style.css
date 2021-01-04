@@ -1,0 +1,20 @@
+body{
+    background-color:thistle;
+    color: salmon;
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
+#sumbit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
